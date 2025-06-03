@@ -1,5 +1,5 @@
 Project Euler Solutions
-  Welcome to my collection of optimized solutions for Project Euler oon Python. 
+  Welcome to my collection of optimized solutions for Project Euler on Python. 
   This repository is a personal effort to solve mathematical and computational problems with a focus on performance and clarity
 
 About:
